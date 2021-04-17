@@ -3,7 +3,6 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '/docs',
     'production' => false,
     'siteName' => 'Community Wakefield Docs',
     'siteDescription' => 'Help and advice on how to get the most out of Community Wakefield',
