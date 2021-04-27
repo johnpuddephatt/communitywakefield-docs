@@ -61,6 +61,7 @@ module.exports = {
     width: ['responsive', 'focus']
   },
   plugins: [
+    require('@tailwindcss/typography'),
     function({ addUtilities }) {
       const newUtilities = {
         '.transition-fast': {

@@ -4,8 +4,8 @@ use Illuminate\Support\Str;
 
 return [
     'production' => false,
-    'siteName' => 'Community Wakefield Docs',
-    'siteDescription' => 'Help and advice on how to get the most out of Community Wakefield',
+    'siteName' => 'Community Wakefield Documentation',
+    'siteDescription' => 'Guidance to help you get the most out of Community Wakefield',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
